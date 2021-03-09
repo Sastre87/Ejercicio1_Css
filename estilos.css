@@ -1,0 +1,196 @@
+body {
+	font-size: 62.5%;
+    font-family: "Lucida Grande", Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1, h2, h3, p, ul {
+	padding: 0;
+	margin: 0;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: black;
+}
+
+#contenedor{
+    width: 1000px;
+    margin: 0 auto;
+}
+ header {
+     
+    background-color: #ee5b32;
+    height: 50px;
+
+    }
+ header form{
+display: block;     
+position: relative;
+width: 395px;
+float: right;
+padding: 14px;
+
+}
+header  #carro {
+float: left;
+width: auto;
+padding-top: 20px;
+padding-left: 1000px;
+}
+header #carro span{
+    color: white;
+    padding-top: -5px;
+    font:15px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif;
+    }
+
+header form input{
+    height: 30px;
+    width: 130px;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+}
+
+header form button{
+   position: absolute;
+   left: 18px;
+   top: 17px;
+    background: url(/img/lupa.png) no-repeat;
+    width: 22px;
+    height: 22px;
+    border: 0;
+    margin: 0;
+   
+}
+#contenedor{
+    margin-top: 30px;
+}
+#contenedor #header{
+    margin-bottom: 20px;
+}
+
+#header img{
+    width: 322.4px;
+    height: 77px;
+
+}
+
+#header ul{  
+    list-style: none outside;
+    float: right;
+}
+
+#header ul li{  
+    float: right;
+    font:28px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+    padding: 15px;
+}
+#contenedor .seccion{
+    padding-bottom: 65px;
+    border-bottom: 10px solid #049ccf;
+}
+#contenedor .seccion h2{
+    margin:20px 0;
+    float: left;
+    
+    font:28px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+}
+
+#contenedor .seccion a{
+    color: #049ccf;
+    margin:20px 0;
+    float: right;
+    font:20px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+}
+
+#contenedor #imagenes div{
+    margin: 20px 0;
+    float: right;
+}
+#contenedor #imagenes div .foto3{
+    padding-right: 50px;
+   padding-bottom: 5px;
+}
+#contenedor #imagenes .foto1{
+    float: right;
+    padding-bottom: 5px;
+ }
+#contenedor #imagenes div .foto2{
+    padding-right: 50px;
+    padding-top: 120px;
+    padding-bottom: 100px;
+ }
+ #contenedor #imagenes div p{
+     padding-top: 10px;
+    color: #049ccf;
+    text-align: center;
+    font:16px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+ }
+ #contenedor #imagenes div .p{
+    padding-left: -10px;
+}
+
+#contenedor .seccion2{
+    margin-top: 440px;
+    border-bottom: 10px solid #049ccf;
+    margin-bottom: 10px;
+    padding-bottom: 65px;
+}
+#contenedor .seccion2 h2{
+    margin:20px 0;
+    float: left;
+    font:28px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+}
+
+#contenedor footer{
+    margin: 20px 0;
+}
+
+#contenedor footer h1{
+    font:28px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+    margin: 0 0 15px;
+    font-weight: bolder;
+    margin-top: 15px;
+}
+#contenedor footer p{
+    font:16px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+    
+}
+
+#contenedor footer a{
+    font:16px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+    color: #049ccf;
+    margin: 0 0 15px;
+}
+#contenedor footer h4{
+    font:22px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+    margin: 0 0 15px;
+    font-weight: bolder;
+    margin-top: 60px;
+    padding-top: 35px;
+}
+#contenedor footer div {
+    padding-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+#contenedor footer p  {
+    margin-top: 25px;
+    display: block;
+    float: left;
+    
+}
+#contenedor footer p a {
+   color: black;
+   font:13.6px "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", sans-serif; 
+}
+
+#contenedor footer #fin {
+    margin-top: 15px;
+    padding-bottom: 20px;
+    border-bottom:none;
+    float: right;
+}
+ 
+
+
+    
+
